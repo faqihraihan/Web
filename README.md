@@ -1,2 +1,2 @@
-# TA
+# Tugas Akhir
 Script Skripsi
